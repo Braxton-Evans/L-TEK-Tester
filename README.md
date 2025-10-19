@@ -2,9 +2,22 @@
 
 A lightweight, responsive input visualizer for L-TEK dance pads on Windows. Designed for rhythm game enthusiasts and hardware tinkerers, this tool provides real-time feedback on arrow presses with a clean 3×3 panel layout and embedded logging.
 
-## Screenshot
+## Motivation
 
-![L-TEK Tester GUI](<L-TEK Tester.png>)
+<table>
+  <tr>
+    <th style="text-align:center;">Sad:</th>
+    <th style="text-align:center;">Happy:</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
+      <img src="SetUpUSBGameControllers.png" alt="Windows USB Controller Setup" width="400">
+    </td>
+    <td style="text-align:center;">
+      <img src="L-TEK Tester.png" alt="L-TEK Tester GUI" width="400">
+    </td>
+  </tr>
+</table>
 
 ## Features
 
@@ -50,7 +63,7 @@ The tool will:
 
 ## License
 
-MIT License
+The Unlicense
 
 ---
 
