@@ -35,23 +35,17 @@ A lightweight, responsive input visualizer for L-TEK dance pads on Windows. Desi
 - `pywinusb` for HID input
 - `pywin32` for window positioning
 
-Install dependencies via:
-
-```
-pip install pywinusb pywin32
-```
+Install dependencies by opening a terminal that supports Python commands and running `pip install pywinusb pywin32`
 
 ## Usage
 
-Simply run the script:
+Simply run the script/tool, `L-TEK-Tester.pyw`
 
-```
-python L-TEK-Tester.py
-```
+This can be done by double-clicking in File Explorer, creating a shortcut/desktop icon, or other creative ways in a terminal.
 
 The tool will:
-1. Detect connected L-TEK pads
-2. Open a GUI window with a 3×3 panel layout
+1. Open a GUI window with a 3×3 panel layout
+2. Detect connected L-TEK pad(s)
 3. Highlight arrows in cyan when pressed
 4. Log device info and warnings in the center panel
 
